@@ -2,6 +2,16 @@
 	"name": "context-menu",
 	"version": "0.1.0",
 	"private": true,
+	"description": "A project to create context-menu using react hook and context",
+	"author": {
+		"email": "zmtmaster@gmail.com",
+		"name": "Matan Kastel",
+		"url": "https://github.com/zmtmaster"
+	},
+	"repository": {
+		"url": "https://github.com/zmtmaster/context-menu"
+	},
+	"homepage": "https://context-menu.herokuapp.com/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.3.2",
