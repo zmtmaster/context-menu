@@ -1,0 +1,8 @@
+{
+  "tabWidth": 2,
+  "useTabs": true,
+  "endOfLine": "crlf",
+  "bracketSpacing": true,
+  "semi": true,
+  "singleQuote": true
+}
