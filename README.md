@@ -8,7 +8,7 @@ A demo a application can be found on [Heroku](https://context-menu.herokuapp.com
 
 ### Contact
 
-![Follow @twitter](./docs/images/twitter.png 'twitter') [Follow me on twitter](@MatanKastel)
+![Follow @twitter](./docs/images/twitter.png 'twitter') [Follow me on twitter @MatanKastel](https://twitter.com/matankastel)
 
 ### Instructions
 
